@@ -64,3 +64,9 @@ For Relationships, filling will add all of the Relationships from the selected C
 
 If a Relationship already exists, Fill will fail to avoid inconsistent updates. This will result in a partial fill as the Rows before the failure will be updated. Use the Rewind Changes feature to unfill those Rows if you want to.
 
+## Drag and Drop
+
+Some cells such as Attachments \(Images, Files\) support drag-and-drop from your File Manager so you don't need to hunt down files your already have open.
+
+![Adding a Preview Image using Drag and Drop.](../.gitbook/assets/draganddrop.gif)
+

@@ -8,6 +8,7 @@
   * [Pop-Out Windows](navigation/pop-out-windows.md)
   * [Danger Buttons](navigation/danger-buttons.md)
   * [Spoilers](navigation/spoilers.md)
+* [Interactive Maps](interactive-maps.md)
 * [Editing Data](editing-data/README.md)
   * [Data Model](editing-data/data-model/README.md)
     * [Structuring Data](editing-data/data-model/structuring-data.md)
