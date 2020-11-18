@@ -1,7 +1,6 @@
 # Table of contents
 
 * [FrontierNav Documentation](README.md)
-* [FAQ](faq.md)
 * [Navigation](navigation/README.md)
   * [Universal Search](navigation/universal-search.md)
   * [Context Menus](navigation/context-menus.md)
@@ -17,6 +16,7 @@
   * [Data Tables](editing-data/data-tables.md)
   * [Editing Interactive Maps](editing-data/interactive-maps.md)
   * [Editing Sidebars](editing-data/sidebars.md)
+* [FAQ](faq.md)
 
 ## Useful Links
 
