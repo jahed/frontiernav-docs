@@ -1,5 +1,9 @@
 # Interactive Maps
 
+## Universal Search
+
+Like with most pages in FrontierNav, you can use [Universal Search](navigation/universal-search.md) to quickly access what you're looking for. Doing so with the Interactive Maps open will take you to any relevant markers.
+
 ## Toggling Markers
 
 LeftClick the "Eye" icon on the bottom left of the map to access the Map Legend in the Sidebar. From there, you can toggle specific types of markers.
