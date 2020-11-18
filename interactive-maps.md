@@ -14,3 +14,7 @@ Sometimes you'll want to mark locations of interest that may not be part of the 
 
 ![Placing a Map Note in Dragon&apos;s Dogma](.gitbook/assets/peek-2020-10-19-02-08-map-notes.gif)
 
+## Editing Maps
+
+To learn more about Editing Maps, read the sections on [Editing Data](editing-data/).
+
