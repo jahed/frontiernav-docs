@@ -22,7 +22,6 @@
 
 * [FrontierNav](https://frontiernav.jahed.dev)
 * [Blog](https://jahed.dev/tags/frontiernav)
-* [GitHub](https://github.com/frontiernav)
 * [Patreon](https://patreon.com/jahed)
 * [Twitter](https://twitter.com/frontiernav)
 * [Discord](https://discordapp.com/invite/crmfAsJ)
