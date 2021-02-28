@@ -1,21 +1,30 @@
 # Table of contents
 
 * [FrontierNav Documentation](README.md)
-* [Navigation](navigation/README.md)
-  * [Universal Search](navigation/universal-search.md)
-  * [Context Menus](navigation/context-menus.md)
-  * [Pop-Out Windows](navigation/pop-out-windows.md)
-  * [Danger Buttons](navigation/danger-buttons.md)
-  * [Spoilers](navigation/spoilers.md)
-* [Interactive Maps](interactive-maps.md)
-* [Editing Data](editing-data/README.md)
-  * [Data Model](editing-data/data-model/README.md)
-    * [Structuring Data](editing-data/data-model/structuring-data.md)
-  * [Making Changes](editing-data/making-changes.md)
-  * [Importing Data](editing-data/importing-data.md)
-  * [Data Tables](editing-data/data-tables.md)
-  * [Editing Interactive Maps](editing-data/interactive-maps.md)
-  * [Editing Sidebars](editing-data/sidebars.md)
+
+## Navigation
+
+* [Universal Search](navigation/universal-search.md)
+* [Context Menus](navigation/context-menus.md)
+* [Pop-Out Windows](navigation/pop-out-windows.md)
+* [Danger Buttons](navigation/danger-buttons.md)
+* [Spoilers](navigation/spoilers.md)
+* [Completion Tracking](navigation/completion-tracking.md)
+* [Game Preferences](navigation/game-preferences.md)
+* [Interactive Maps](navigation/interactive-maps.md)
+
+## Editing Data
+
+* [Data Model](editing-data/data-model.md)
+* [Structuring Data](editing-data/structuring-data.md)
+* [Making Changes](editing-data/making-changes.md)
+* [Importing Data](editing-data/importing-data.md)
+* [Data Tables](editing-data/data-tables.md)
+* [Editing Interactive Maps](editing-data/interactive-maps-1.md)
+* [Editing Sidebars](editing-data/sidebars.md)
+
+---
+
 * [FAQ](faq.md)
 
 ## Useful Links

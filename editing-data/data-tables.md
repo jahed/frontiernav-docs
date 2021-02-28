@@ -8,7 +8,7 @@ Data Tables are the primary interface for editing data.
 
 ## Presentation
 
-Data Tables are organised as follows based on the "[Data Model](data-model/)":
+Data Tables are organised as follows based on the "[Data Model](data-model.md)":
 
 * Table are Entity Types
 * Rows are Entities
