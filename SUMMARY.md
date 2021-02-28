@@ -4,6 +4,7 @@
 
 ## Navigation
 
+* [Navigation Bar](navigation/navigation-bar.md)
 * [Universal Search](navigation/universal-search.md)
 * [Context Menus](navigation/context-menus.md)
 * [Pop-Out Windows](navigation/pop-out-windows.md)
