@@ -8,5 +8,7 @@ To access the Game Preferences page:
 2. Click your avatar in the navigation bar.
 3. Under "Current Game", click "Preferences".
 
+![Accessing Game Preferences](../.gitbook/assets/zfjsndmzvy.gif)
+
  
 
