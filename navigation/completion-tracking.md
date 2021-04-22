@@ -6,7 +6,7 @@ To help keep track of entities you've already found, you can mark them as "Compl
 
 You can complete entities in bulk using [Data Tables](../editing-data/data-tables.md). [Mark multiple rows](../editing-data/data-tables.md#marking-multiple-rows) then select "Complete Entities" from the toolbar. Similarly to reset multiple completed entities **RightClick** or **LongPress** "Complete Entities" instead.
 
-![Completing multiple entities using drag and drop.](../.gitbook/assets/7puezmsuch.4.gif)
+![Completing multiple entities using drag and select.](../.gitbook/assets/7puezmsuch.4.gif)
 
 ### Resetting All Completed Entities
 
