@@ -20,5 +20,5 @@ Sometimes you'll want to mark locations of interest that may not be part of the 
 
 ## Editing Maps
 
-To learn more about Editing Maps, read the sections on [Editing Data]().
+To learn more about Editing Maps, read the sections on [Editing Interactive Maps](../editing-data/interactive-maps-1.md).
 
