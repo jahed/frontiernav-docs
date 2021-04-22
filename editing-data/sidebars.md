@@ -6,8 +6,6 @@ description: How to edit Sidebars.
 
 The layout of the Sidebar for any given Entity is based on the order and configuration of its Properties. You can modify the order using the Entity Type Editor, and you can change each Property by using the Data Tables and pressing **RightClick** on a Column Head.
 
-Some layouts are hardcoded, but these will be migrated to allow anyone to change them in the future.
-
 ## Standard Properties
 
 Some Properties come standard with every Entity. These have fixed positions on the Sidebar and can't be moved. These are:
