@@ -26,7 +26,7 @@ It's a good idea to regularly save your changes to keep a backup. If anything go
 
 Your open changes are automatically saved every 10 seconds for the current session, up to a maximum of 5 autosaved sessions. After which the oldest session is removed.
 
-This is a safety net in case your web browser crashes or you accidentally close your tab. Don't rely on it too much as web browsers have limited storage. After doing substantial work always Export manually to have a safe copy on your device.
+This is a safety net in case your web browser crashes or you accidentally close your tab. Don't rely on it too much as web browsers have limited storage. After doing substantial work always Save manually to have a safe copy on your device.
 
 ## Opening Changes
 
