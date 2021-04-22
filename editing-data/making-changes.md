@@ -40,6 +40,10 @@ When opening **changes.json** on its own, your changes are re-applied over the l
 
 Whenever your changes conflict, you'll need to discard them to continue. To avoid losing your changes, you'll be given the option to **Save** them, after which you can send them to an Admin to fix.
 
+{% hint style="info" %}
+In the future, an interface to resolve conflicts yourself may be provided.
+{% endhint %}
+
 ## Rewinding Changes
 
 If you make a mistake and want to go back to a previous state, you can open up the Changes Sidebar, **LeftClick** on the change you want to go back to and **LeftClick** "Rewind". This will reset the data and re-apply all of your changes up to that point and discard the rest.
