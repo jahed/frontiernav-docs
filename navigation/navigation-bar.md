@@ -4,3 +4,5 @@ The strip of icons along the left side of every page is called the Navigation Ba
 
 The Navigation Bar is contextual. When you're within a game context, it'll show navigation for that game. If you haven't chosen a game, it'll show global navigation.
 
+![Using the Navigation Bar](../.gitbook/assets/t1coxm8b25.gif)
+
