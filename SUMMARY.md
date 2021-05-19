@@ -24,6 +24,7 @@
 * [Data Tables](editing-data/data-tables.md)
 * [Editing Interactive Maps](editing-data/interactive-maps-1.md)
 * [Editing Sidebars](editing-data/sidebars.md)
+* [Adding Games](editing-data/adding-games.md)
 
 ---
 
