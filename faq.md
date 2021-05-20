@@ -58,5 +58,7 @@ FrontierNav is updated constantly. There is no fixed release cycle. However, you
 
 ### Why isn't FrontierNav open source?
 
-Parts of FrontierNav [are open source](https://github.com/jahed); the parts that can be used in other projects. FrontierNav itself is not open source as it's experimental and there's an overhead in providing enough documentation for others to contribute. FrontierNav was open source in the past, but due to a lack of contributions, the overhead wasn't paying off. FrontierNav may become open source again in the future if it can generate [enough donations to sustain such an endeavour](https://patreon.com/jahed).
+Parts of FrontierNav [are open source](https://github.com/jahed); the parts that can be used in other projects. FrontierNav's data is open and available under "[Creative Commons Attribution-ShareAlike 4.0 International \(CC BY-SA 4.0\)](https://creativecommons.org/licenses/by-sa/4.0/)" which is common for wikis. You can [save the data](editing-data/making-changes.md#saving-changes) and it in your own applications within the terms of the license.
+
+FrontierNav's codebase is not open source as it's experimental and there's an overhead in providing enough documentation for others to contribute code. FrontierNav was open source in the past, but due to a lack of contributions, the overhead wasn't paying off. FrontierNav may become open source again in the future if it can generate [enough donations to sustain such an endeavour](https://patreon.com/jahed).
 
