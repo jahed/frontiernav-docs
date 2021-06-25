@@ -32,7 +32,7 @@
 
 ## Useful Links
 
-* [FrontierNav](https://frontiernav.jahed.dev)
+* [FrontierNav](https://frontiernav.net)
 * [Blog](https://jahed.dev/tags/frontiernav)
 * [Patreon](https://patreon.com/jahed)
 * [Twitter](https://twitter.com/frontiernav)
