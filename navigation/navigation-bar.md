@@ -1,3 +1,7 @@
+---
+description: Quick access to common pages.
+---
+
 # Navigation Bar
 
 The strip of icons along the left side of every page is called the Navigation Bar. It allows you to access common pages where ever you are on the website.
