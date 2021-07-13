@@ -10,5 +10,3 @@ If you'd like to skip to a specific page, use the navigation along the left and 
 
 {% page-ref page="faq.md" %}
 
-
-
